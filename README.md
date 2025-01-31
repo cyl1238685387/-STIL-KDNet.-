@@ -25,3 +25,11 @@ providing accurate results for surface monitoring. Experiments
 show that this lightweight network has excellent accuracy and
 efficiency on the LEVIR-CD,SYSU-CD,and WHU-CD datasets.
 .<div align=center>![image](https://github.com/user-attachments/assets/86ced9e3-e35c-4802-9e17-2b60c2c74373)</div>
+
+
+## Environment require
+conda create --name CD python=3.11
+
+## run
+bash run.sh
+
